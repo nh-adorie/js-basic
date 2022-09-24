@@ -1,0 +1,39 @@
+// var fullName = 'Nguyen Hai Thuong';
+// // Var phân biệt chữ hoa và chữ thường
+// // Có thể viết dấu chấm phẩy cuối câu hoặc không
+// alert(fullName);
+// var age = 19; //Comment cùng 1 dòng cũng được
+// alert(age);
+// /**
+//  * Comment
+//  * Nhiều dòng
+//  */
+
+// //Built-in function?: js xây dựng sẵn chỉ cần lấy ra và sử dụng
+
+// //console: in ra thông báo ở Console trong Dev tool 
+// console.log('Day la 1 dong log') 
+// console.log(27102002)
+// console.log(fullName)
+
+// //confirm: hiện cửa sổ xác nhận
+// confirm('Xác nhận bạn đáng yêu') 
+
+// //prompt: hiện cửa số xác nhận + ô input
+// prompt('Bạn bao nhiêu tuổi?')
+
+// //setTimeout: chạy code sau 1 khoảng thời gian được ấn định
+// setTimeout(function() {
+//     alert('Một giây')
+// },1000,)
+
+// //setInterval:chạy code liên tục trong 1 khoảng thời gian
+// setInterval(function() {
+//     console.log('Chạy liên tục')
+// })
+/** Toán tử
+ * Toán tử số học - Arimethic: + - * /
+ * Toán tử gán - Assignment: = 
+ * Toán tử so sánh - Comparison: > < ==
+ * Toán tử logic - Logical: &&
+ */
